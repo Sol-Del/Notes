@@ -1,17 +1,22 @@
 # Notes
-
- * [Email Security (Proofpoint)](#email-security--proofpoint-)
+- [Notes](#notes)
+  * [Email Security - Proofpoint](#email-security---proofpoint)
     + [Protection Server Foundations Level 1](#protection-server-foundations-level-1)
       - [Message Flow](#message-flow)
       - [SMTP and Filtering](#smtp-and-filtering)
     + [Protection Server Administration Level 1](#protection-server-administration-level-1)
-      - [Cluster & Modules](#cluster---modules)
+      - [Cluster and Modules](#cluster-and-modules)
       - [Navigation](#navigation)
       - [User Management](#user-management)
       - [End User Services](#end-user-services)
       - [TAP](#tap)
+    + [Protection Server Configuration](#protection-server-configuration)
+      - [Policy Routes](#policy-routes)
+      - [Rules](#rules)
+      - [Dispositions](#dispositions)
+      - [Quarantine Function](#quarantine-function)
 
-## Email Security (Proofpoint)
+## Email Security - Proofpoint
 ### Protection Server Foundations Level 1
 #### Message Flow
 - Protection server filters messages that arrive and only accepts messages that meet criteria set by admin
@@ -37,7 +42,7 @@
   - Header: Subject, from, date, to 
  
 ### Protection Server Administration Level 1
-#### Cluster & Modules
+#### Cluster and Modules
 - Cluster = Master + Agents (# of agents depends)
 - The agents filter and relay the messages, and the master provides centralized configuration and administration through the web-based management interface.
 - Module is an app that performs specific filtering task
@@ -97,3 +102,69 @@
 - If the URL's status is unknown, the user will be allowed to the site while the URL is further evaluated, and a reputation can be assigned
 - Re-written URL: when URL is revealed, protection server rewrites URL so user cannot simply type the malicious URL into a browser and access site
 - Attachment defense: when attachment arrives, protection server analyzes before forwarding the message
+- 
+### Protection Server Configuration
+#### Policy Routes
+- Policy Routes: provide a way to group connect and envelope attributes into conditions
+- Protection server evaluates each message, give sit a tag then routes it to the appropriate firewall rule
+- Creating Policy Routes
+  1. Route ID
+  2. Description
+  3. Condition
+    - Country Code
+    - Envelope Recipient
+    - Envelope Sender
+    - Local IP
+    - Protocol
+    - Sender HELO domain
+    - Sender hostname
+    - Sender IP address
+    - Sender reverse IP 
+  4. Save Changes
+- System tab --> System menu --> Policy Routes --> add
+- Ex: 
+- Route ID(name) Orange
+- Descrip.       Sender is from X Company
+- Add Condition
+- Condition:            
+-                       Sender Hostname
+- Condition Attribute:  
+-                       Attribute: Sender Hostname
+-                       Operator: Contains
+-                       Value: X Company
+- Save changes
+- Policy listed bottom of table now
+#### Rules
+- Make them If/Then statements
+- All conditions met then disposition is enforced
+- “If msg arrives from Y Company, then delete”
+- Rule Settings
+- Conditions (If) --> Dispositions (Then)
+- Email Protection --> Rules --> Rule
+- Rule ID cannot be changed so think of a good rule name
+- For each filtering module, administrators create rules that determine how to process messages
+#### Dispositions
+- Made up of Delivery methods and Delivery options
+- Quarantine options is on its on
+- EX:
+- If a msg is from company W (CONDITION)
+	- AND
+- It contains “X” in the subjection or body (CONDITION)
+- ----------------------------------------------------------- 
+- Dispositions
+- Then continue processing (DELIVERY METHOD)  
+	- AND
+- Change subject to “Y” (DELIVERY OPTION)
+	- AND
+- Place a copy in the Job Offer Quarantine folder (DELIVERY OPTION)
+- Delivery Methods:
+	- Deliver Now: available for all modules, delivers the msg, nothing else
+	- Continue: available for all, passes msg to each module for filtering. Once	passes all filtering sent to email infrastructure
+	- Reject: all available, permanently reject msg, sender receives reject msg
+	- Retry: all available, is reject but sender can retry
+	- Discard: all available, accepts msg from host and quietly discard msg	without sender knowing
+  - Re-route: available all, route filtered message through different SMTP server. 
+#### Quarantine Function
+- Quarantine: creates a copy and quarantines the copy instead
+- Look at is as a type of repository
+
