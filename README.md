@@ -1,5 +1,5 @@
 # Notes
-- [Notes](#notes)
+- - [Notes](#notes)
   * [Email Security - Proofpoint](#email-security---proofpoint)
     + [Protection Server Foundations Level 1](#protection-server-foundations-level-1)
       - [Message Flow](#message-flow)
@@ -15,6 +15,9 @@
       - [Rules](#rules)
       - [Dispositions](#dispositions)
       - [Quarantine Function](#quarantine-function)
+  * [Email Security - Microsoft Defender 365](#email-security---microsoft-defender-365)
+    + [Zero-hour auto purge ZAP basics](#zero-hour-auto-purge--zap--basics)
+    + [How ZAP works](#how-zap-works)
 
 ## Email Security - Proofpoint
 ### Protection Server Foundations Level 1
@@ -166,7 +169,7 @@
   - Re-route: available all, route filtered message through different SMTP server. 
 #### Quarantine Function
 - Quarantine: creates a copy and quarantines the copy instead
-- Look at is as a type of repository
+- Look at it as a type of repository
 
 ## Email Security - Microsoft Defender 365
 ### Zero-hour auto purge (ZAP) basics
