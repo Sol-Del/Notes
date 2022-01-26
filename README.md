@@ -168,3 +168,9 @@
 - Quarantine: creates a copy and quarantines the copy instead
 - Look at is as a type of repository
 
+## Email Security - Microsoft Defender 365
+### Zero-hour auto purge (ZAP) basics
+- In Microsoft 365 organizations with mailboxes in Exchange Online, zero-hour auto purge (ZAP) is an email protection feature that retroactively detects and neutralizes malicious phishing, spam, or malware messages that have already been delivered to Exchange Online mailboxes.
+- doesn't work in Exchange Online Protection (EOP) environments that protect on-premises Exchange mailboxes
+### How ZAP works
+- 
