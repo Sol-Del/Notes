@@ -169,6 +169,32 @@
 #### Quarantine Function
 - Quarantine: creates a copy and quarantines the copy instead
 - Look at it as a type of repository
+### Protection Server Security
+#### Authentication
+- Three methods protection server uses to authenticate
+- 	SPF, DKIM, DMARC
+- SPF: Sender Policy Framework
+- How it works: Bank specifies all mail from them will come from specific IP, protection server gets email then DNS queries to check if IP in email matches the IP bank says email will always come from
+- DKIM: Domain Keys Identified Mail
+- How it works: uses asynchronous cryptography. Bank makes private public key pair, private key stays on bank email server, public key published to DNS. Bank drafts the email, bank hashes the email with private key, makes hash value and digital signature (unique). Protection severs fetches public key from DNS decrypts signature, double checks the hash value and algorithm. If it matches wasn’t spoofed or altered
+- DKIM signing counts as us using DKIM as a sender and telling recipients to reject anything nor from us
+- DMARC: domain-based message auth reporting and conformance
+- Builds off SPF and DKIM
+- Uses identified alignment (SPF and DKIM can pass by competent attacker)
+- How it works: check from section in envelope from SMTP and from section in email match. If no ID alignment fails. Looks at domain TA used to obtain keypair, compares to domain in message, doesn’t match ID alignment fails
+#### Spam Detection
+- Spam Detection Progress
+ ![image](https://user-images.githubusercontent.com/95253821/151257286-196051e0-4542-4bb3-80cd-9258e3012fce.png)
+- Step 1: analyze messages on attack response center all around the world
+- Step 2: as it arrives it is analyzed by proofpoint employees
+- Step 3: protection servers and attack response centers communicate; MLX folders send to servers via routine updates
+- Step 4: MLX arrives at protection server, MLX engines analyze msg and calculate probability
+- Classifications: Malware, impostor, phish, adult, spam, bulk, suspect, low priority 
+- Scores 0-100 0 valid 100 spam
+- Step 5: checks the rules for spam score and conditions met
+- Step 6: message arrives and reputation service looks at 
+- IP and call sour to attack response center
+- Step 7: action based on reputation response
 
 ## Email Security - Microsoft Defender 365
 ### Zero-hour auto purge ZAP basics
