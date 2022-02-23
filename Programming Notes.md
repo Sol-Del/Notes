@@ -35,6 +35,7 @@
 - operators perform and operation on a variable or value + - / *. Lots more
 
 ![image](https://user-images.githubusercontent.com/95253821/154191293-c2e7ba97-3896-4c3b-bf28-8c5ce8ae27fe.png)
+### Primitive Types
 - Primitive types: boolean, byte, char, short, int, long, float, double
 - These building blocks of data manipulation
 - Java packages are ways to organize java projects, consider as folders for now
@@ -44,4 +45,36 @@
 - Java uses concept of Wraooer class for all 8 primitive types, int we use Integer, and by doing that it gives us wats to perform operations on an int
 - Using Min_Value and Max_Value to get Java to tell us min and max range of numbers that can be stored
 - Overflow more the max vualue and Underflow less than min. Causes computer to skip to the opposoite important concept
+- Byte occupies 8 bits width of 8, short is 16 bits width of 16, int occcupies 32 occupies 32 bits, long with of 64
+- Casting means to treat or convert a number from one type to another but the type of number in parenthesis
+- (byte)(myMinByte/2);
+- Other languages have casting too
+- FLoating Point numbers are fractional parts as decimal points still primitive
+- floting point numbers also known as real number
+- Single precision (float) 32 bits and double precision (double) 64 bits
+- in general float and double are great for general floating point operations
+- Java has a class called BigDecimal 
+- Unicode is an international encoding standard for use with diff languages and scripts
+- boolean allows for two choices T/F, Yes/No, 1/0
+### Specifically String
+- String is not primitive type but it is actually a class (easier than regular class)
+- String is a sequence of characters
+- String in Java are immutable, means you can't change a strin after it's created but a new one is created example
+
+![image](https://user-images.githubusercontent.com/95253821/154790572-0e3993bd-7fd1-4e6f-9944-63d05143226f.png)
+- Code is quie inefficient would prefer StringBuffer
+
+### Operators Operands and Expressions
+- operators are special symbols that perform specific operations on one, two, or three operands then returns resuls ie + operator
+- What is Operand? terms used to describe any object manupulated by operator
+- int myVar = 15 + 12;
+- + is operator and 15 and 12 operands
+- formed by combining variables literals method return values and operators
+-  // are ignored anything after that are ignored use it to describe
+-  = assigns the variable
+-  == is the actual "equal", are the operands identical to each other
+
+### if then statment
+- the most basic of all control flow statements, known as conditional logic, does certain section of code if certain expression evaluates as true
+- no code block only 1 line will be executed, always use code block for if then statements
 - 
