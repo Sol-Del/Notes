@@ -1,0 +1,11 @@
+- 19. Girlfriend- you sure you not adding songs for me??? But yes I do admire you, glad you feel I am no longer afraid to show you off
+- 20. Im yours - nah you can't use this cus I wasnt looking for love. was just a shot in the dark ngl to ya. HOOP me
+- 21. I've changed - LOOKING BACK I THOUGHT I WOULD NEVER!!! EVERYTHING YOU DO I ADORE!! 
+- 22. sobeautiful - nah you dead stealing all my songs! Tell me if you feel the same way. If i had to choose girl I know I'm always gonne choose to be with you. baby dont you baby dont you know youre so beautiful ul
+- 23. Unbreakable - We are NOT fighting like Ike and Tina, yes I do pray we are unbreakable
+- 24. Get You - EVERY TIME I LOOK INTO YOUR EYYESS, I get you as well as you get me. Who would've thought I'd get you is a very true statement 
+- 25. Blessed - don't wanna be anywhere or a place I can't feeel you. I aint fully a mess just a lil every now and then. Wouldn't go back though we got a lot going I don't want to possibly go and change something
+- 26. Sure Thing - OOOHHH I fasho got faith in you and I cus this love is a sure thing
+- 27. Mesmerize - I hope you always love it when I  look and kiss you :)
+- 28. Love - you don't know how much I mess with musiqsoulchild. 
+- 29. You are - KNOWING YOU BY MY SIDE BRINGS TEARS TO MY EYEEEESSSSS
