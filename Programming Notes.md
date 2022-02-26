@@ -77,4 +77,6 @@
 ### if then statment
 - the most basic of all control flow statements, known as conditional logic, does certain section of code if certain expression evaluates as true
 - no code block only 1 line will be executed, always use code block for if then statements
+- logical AND = && always wanna do this & is a bitwise working at bit level same with
+- logical OR = ||
 - 
