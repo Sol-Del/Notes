@@ -74,9 +74,21 @@
 -  = assigns the variable
 -  == is the actual "equal", are the operands identical to each other
 
-### if then statment
+### if then else statment
 - the most basic of all control flow statements, known as conditional logic, does certain section of code if certain expression evaluates as true
 - no code block only 1 line will be executed, always use code block for if then statements
 - logical AND = && always wanna do this & is a bitwise working at bit level same with
 - logical OR = ||
+- if statement identifies whihc statement or code block to run based on the value of an expression
+- inside the code block define by curly braces {and} we have one or multiple statements
+- else is used after the if. In that case when the condition is false the else block will be executed
+- also use else if to test multiple conditions
+- if (condition) {
+- // if statement (block)
+- } else {
+- // else statement (block)
+- }
+
+### Keywords
+- highlighted in blue
 - 
