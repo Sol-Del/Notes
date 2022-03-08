@@ -9,3 +9,21 @@
 - 27. Mesmerize - I hope you always love it when I  look and kiss you :)
 - 28. Love - you don't know how much I mess with musiqsoulchild. 
 - 29. You are - KNOWING YOU BY MY SIDE BRINGS TEARS TO MY EYEEEESSSSS
+- 30. Still - She said this love gets better everyday and I couldnt agree more.
+- 31. Follow me - SIT BACK and ride when I feel like driving. OOOOH I cant believe it you came just in TIMMMEEEEE, come follow come follow me come follow ME. Noone understands but you thats why I choose to be with you. Glad this song stuck with ya
+- 32. Its you - what he say "Please don't break my heart" fr fr aint tryna go through that
+- 33. Piece of my love - YOU can have a piece of my LOVE waiting for youuuu. You can def have all of meeeeeeeeee, would very much appreciate that to you
+- 34. At your best - It is hard to tell you what I feel because I don't know how to fully describe it
+- 35. If I aint got YOU - some people want it all, but I dont WANT NOTHING at all if I aint got youuuu. Frfr frfr that speaks to my SOUL. 
+- 36. Until the end of time - You dont know how much I like these songs lmao. I be jamming and singing both verses. I WOKE UP THIS MORINGING, HEARD THE TV SAYING SOMETHING. Rest your weary heart and relax your mind, cus I'm gonna love you girl until the end of time.
+- 37. Show me love - TREAT IT LIKE WE FREAKING ON THE WEEKEND, nahh need that need that loving
+- 38. Dead man walking - drop the roof and let the smoke clear, I got diamonds doing toosie slides in both ear. Dice rolling on the Las vegas strip tonight, slip that on and we might miss the fight. 
+- 39. Buddy - ITs a different type of commitment, talking bout a true friendship.   itll be fly if you were my B U D D Y, sorry if I come off disrespectful. Maybe I can take you out sometimes :) 
+- 40. Two occasions - TO satify emotions thats I share between USSSS. cus every time I close my eyes I think offf you
+- 41. Into You - I really think I'm slipping these girls be thinking im tripping, how I be feeling cus if it aint you AINT INTO them. I can't really explain it 
+- 42. Just Friends - you dont know none bout my boy MusiqSoulChild, but nah nah you def had to be my girlfriend LMAO only song that dont relate. I wasnt tryna pressure you but we wasnt just gone be friends
+- 43. Like youll never see me again - KISS ME LIKE YOULL never see me agaaaainnn. I do promise I  will love you so no need to worry about that :)
+- 44. Be Without You - Chemistry was crazyyyy from the get go :$ I cant be withoutcha BAAABAY. Got a question for ya!!! Too strong for too long we got some more time left chief. HANDS UP AND IM TELLING YOU YOU THE ONE. HEEEEEEeeeeeeeeyyyyyyyyyyy HHHHEEEEEEEEEEEEEEEEEEEYYYYYYYYYY
+- 45. And I - As long as we both know no breaking hearts on this side, better not have had these feelins before really cus how you get over that??
+- 46. You - 
+- BRO THIS SHIT WAS ON SHUFFLE AGAIN!!!!!!!!! lemme rearrange these numbers 
