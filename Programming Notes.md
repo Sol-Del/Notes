@@ -89,6 +89,10 @@
 - // else statement (block)
 - }
 
-### Keywords
-- highlighted in blue
-- 
+### Methods
+-  when creating methods and putting them in the parameter no need to create the variables within the method
+-  when you dont want to return anythig use void
+-  when you do use return, when returning you need to add what you want to return i.e. public static int
+-  would returen the int data type
+-  would need to return something everytime
+-  When calling methods call them within the MAIN mehtod still
