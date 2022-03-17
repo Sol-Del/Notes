@@ -96,3 +96,7 @@
 -  would returen the int data type
 -  would need to return something everytime
 -  When calling methods call them within the MAIN mehtod still
+-  Method Overload is the same method name but passing a differnet number of parameters
+-  data type in parameters for methods are what make them unique
+-  Just changing data type of method does not fix anything
+-  
