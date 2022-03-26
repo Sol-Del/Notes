@@ -96,7 +96,9 @@
 -  would returen the int data type
 -  would need to return something everytime
 -  When calling methods call them within the MAIN mehtod still
--  Method Overload is the same method name but passing a differnet number of parameters
+-  Method Overload feature that allows us to have more thgan one method with the same name
 -  data type in parameters for methods are what make them unique
 -  Just changing data type of method does not fix anything
+-  println method is an example of method overloading
+-  improves code readabiulityt and re-usability
 -  
