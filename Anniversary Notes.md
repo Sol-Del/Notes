@@ -13,17 +13,26 @@
 - 31. Follow me - SIT BACK and ride when I feel like driving. OOOOH I cant believe it you came just in TIMMMEEEEE, come follow come follow me come follow ME. Noone understands but you thats why I choose to be with you. Glad this song stuck with ya
 - 32. Its you - what he say "Please don't break my heart" fr fr aint tryna go through that
 - 33. Piece of my love - YOU can have a piece of my LOVE waiting for youuuu. You can def have all of meeeeeeeeee, would very much appreciate that to you
-- 34. At your best - It is hard to tell you what I feel because I don't know how to fully describe it
-- 35. If I aint got YOU - some people want it all, but I dont WANT NOTHING at all if I aint got youuuu. Frfr frfr that speaks to my SOUL. 
-- 36. Until the end of time - You dont know how much I like these songs lmao. I be jamming and singing both verses. I WOKE UP THIS MORINGING, HEARD THE TV SAYING SOMETHING. Rest your weary heart and relax your mind, cus I'm gonna love you girl until the end of time.
+-
+- 
+-  
+-   
+- 34. At your best - It is hard to tell you what I feel because I don't know how to fully describe it. Imma mess around open this every day :( thats so sweet. At OUR best we amazing.
+- 35. If I aint got YOU - some people want it all, but I dont WANT NOTHING at all if I aint got youuuu. Frfr frfr that speaks to my SOUL. Bet bet you dont want my money? Good I was gone put it away anyway so I needed a way to let ya know LMAO
+- 36. Until the end of time - You dont know how much I like these songs lmao. I be jamming and singing both verses. I WOKE UP THIS MORINGING, HEARD THE TV SAYING SOMETHING. Rest your weary heart and relax your mind, cus I'm gonna love you girl until the end of time. Glad to be such a big part of your heart now, never knew it would be like this.
 - 37. Show me love - TREAT IT LIKE WE FREAKING ON THE WEEKEND, nahh need that need that loving
-- 38. Dead man walking - drop the roof and let the smoke clear, I got diamonds doing toosie slides in both ear. Dice rolling on the Las vegas strip tonight, slip that on and we might miss the fight. 
-- 39. Buddy - ITs a different type of commitment, talking bout a true friendship.   itll be fly if you were my B U D D Y, sorry if I come off disrespectful. Maybe I can take you out sometimes :) 
-- 40. Two occasions - TO satify emotions thats I share between USSSS. cus every time I close my eyes I think offf you
-- 41. Into You - I really think I'm slipping these girls be thinking im tripping, how I be feeling cus if it aint you AINT INTO them. I can't really explain it 
-- 42. Just Friends - you dont know none bout my boy MusiqSoulChild, but nah nah you def had to be my girlfriend LMAO only song that dont relate. I wasnt tryna pressure you but we wasnt just gone be friends
-- 43. Like youll never see me again - KISS ME LIKE YOULL never see me agaaaainnn. I do promise I  will love you so no need to worry about that :)
-- 44. Be Without You - Chemistry was crazyyyy from the get go :$ I cant be withoutcha BAAABAY. Got a question for ya!!! Too strong for too long we got some more time left chief. HANDS UP AND IM TELLING YOU YOU THE ONE. HEEEEEEeeeeeeeeyyyyyyyyyyy HHHHEEEEEEEEEEEEEEEEEEEYYYYYYYYYY
-- 45. And I - As long as we both know no breaking hearts on this side, better not have had these feelins before really cus how you get over that??
-- 46. You - 
-- BRO THIS SHIT WAS ON SHUFFLE AGAIN!!!!!!!!! lemme rearrange these numbers 
+- 38. Dead man walking - drop the roof and let the smoke clear, I got diamonds doing toosie slides in both ear. Dice rolling on the Las vegas strip tonight, slip that on and we might miss the fight. LMAO yea it def doesnt represent our relationship but it most def is OUR song 
+- 39. Buddy - ITs a different type of commitment, talking bout a true friendship.   itll be fly if you were my B U D D Y, sorry if I come off disrespectful. Maybe I can take you out sometimes :) Still standing by you wouldve called me weird if i stopped you walking to the car LMAO
+- 40. Two occasions - TO satify emotions thats I share between USSSS. cus every time I close my eyes I think offf you. HOLD ON your love could dismantle the Earth, thats really a bar.
+- 41. Into You - I really think I'm slipping these girls be thinking im tripping, how I be feeling cus if it aint you AINT INTO them. I can't really explain it. To think you wouldn't have even looked at anime if it wasnt cus of me. Will always make sure something we do you will enjoy too
+- 42. Just Friends - you dont know none bout my boy MusiqSoulChild, but nah nah you def had to be my girlfriend LMAO only song that dont relate. I wasnt tryna pressure you but we wasnt just gone be friends. LMAO they dont call me Smooth Sol for no reason 
+- 43. Like youll never see me again - KISS ME LIKE YOULL never see me agaaaainnn. I do promise I  will love you so no need to worry about that :) I promise to never give up, we gone work
+- 44. Be Without You - Chemistry was crazyyyy from the get go :$ I cant be withoutcha BAAABAY. Got a question for ya!!! Too strong for too long we got some more time left chief. HANDS UP AND IM TELLING YOU YOU THE ONE. HEEEEEEeeeeeeeeyyyyyyyyyyy HHHHEEEEEEEEEEEEEEEEEEEYYYYYYYYYY. That day will be rather soon, Logan only make fun of you cus that be her too llmao except Chase 4 hours away.
+- 45. And I - As long as we both know no breaking hearts on this side, better not have had these feelings before really cus how you get over that??
+- 46. You - THIS IS HOW I FEEL. True I love you through all of that somehow and its ALOT lmao jk
+- 47. Sweet Lady - You already spoil me enough but I will gladly take anything you giving. Would you be my sweet lady for a lifetime
+- 48. MY heart Belongs to U - I def trust you especially even more now I tell you how I am feeling without the veil. So dont drop mine and I wont yours.
+- 49. Sweet Thing - DONTCHA KNOW YOU MY EVERYYYYYTHANG. Oh we going places fasho, my heat and my fire :) just want to satify ya
+- 50. I want to be your man - Smooth sol strikes again, what they say in the song? I cant see anyone else but youu. Told you we were made for each other lonnggg ago. Words could never say how I feel.
+- 51. In Love with you - The title def says it I am In love with you as well. Will love you 6ever. 
+- 52. Hrs & Hrs - lol wrote a whole novel on this card but yes indeed. I will say this Cristiani and Jordan would always tell me I would get a girlfriend whenever I was done looking. Told me for years, even in high school one of my friends literally said "DeSale kinda ugly but his personality A1 and he funny so I know he gone get a total baddie when we grow up". LOL bro was tripping aint have to say I was a lil ugly even thopugh I think I was in Highschool. But all 3 of thenm were correct. I stopped looking cus I was tired of just talking for a little then falling out for no reason, then I met you. And like he said you a WHOLE BADDIE walking Goddess really, and I am so happy to have met you and so grateful. Sorry this took me forever to finish, was bombarded with Love truly and didnt know how to react. I would feel bad because I know I love you and REALLY did appreciate it. But IDK why i didnt just do this all in one fel lswoop. I hope the time it took me to complete this doesnt stop you from ever doing this again. Because I remember first seening this and just thinking "Wow I am truly rerally loved by this girl" :)
