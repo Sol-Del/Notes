@@ -100,5 +100,24 @@
 -  data type in parameters for methods are what make them unique
 -  Just changing data type of method does not fix anything
 -  println method is an example of method overloading
--  improves code readabiulityt and re-usability
--  
+-  improves code readability and re-usability
+
+# Python
+## Fundamentals
+- def = functions or method
+
+### Classes and Instances
+- to make a class just type 'class'
+-   i.e. class Employee:
+-         def __int__(self, first, last, pay):
+-           self.first = first
+-           self.last = last
+-           self.pay = pay
+-
+-         def fullname(self):
+-           return '{} {}'.format(self.first, self.last)
+- class is the blueprint for an instance
+- each employee would be and instance of the employee class
+- emp_1 = Employee('Test', 'User', 78444)
+- emp_2 = Employee()
+- don't forget the self argument for the instance
