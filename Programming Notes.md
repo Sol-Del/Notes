@@ -105,6 +105,7 @@
 # Python
 ## Fundamentals
 - def = functions or method
+- to start a comment use #
 
 ### Classes and Instances
 - to make a class just type 'class'
